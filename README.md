@@ -1,5 +1,5 @@
 # COGNIFYZ_LEVEL1_TASK2
-📁 Level 1 - Task 2: City-wise Restaurant Count and Ratings
+# 📁 Level 1 - Task 2: City-wise Restaurant Count and Ratings
 # Task: City-wise Restaurant Count and Ratings
 
 ## Description
