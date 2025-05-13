@@ -1,6 +1,5 @@
 # COGNIFYZ_LEVEL1_TASK2
 # 📁 Level 1 - Task 2: City-wise Restaurant Count and Ratings
-# Task: City-wise Restaurant Count and Ratings
 
 ## Description
 This project identifies which city has the highest number of restaurants and also examines the average rating of restaurants by city. The analysis helps understand both market size and customer satisfaction across locations.
